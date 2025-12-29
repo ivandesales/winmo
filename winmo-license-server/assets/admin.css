@@ -1,0 +1,12 @@
+/* Admin styling for Winmo License Server */
+.wl-wrap .wl-danger {
+	color: #b32d2e;
+}
+
+.wl-wrap table.wp-list-table td {
+	vertical-align: top;
+}
+
+.wl-form .regular-text {
+	width: 320px;
+}
