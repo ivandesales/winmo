@@ -1,0 +1,11 @@
+#poststuff .notice-winmo-locked,
+#winmo_property_data input[disabled],
+#winmo_property_data select[disabled] {
+    opacity: 0.8;
+}
+
+body.post-type-winmo_property.winmo-locked .editor-post-publish-panel__toggle,
+body.post-type-winmo_property.winmo-locked .editor-post-publish-button,
+body.post-type-winmo_property.winmo-locked #publish {
+    display: none !important;
+}
